@@ -1,0 +1,8 @@
+prefix=/home/nyubuntu/RV4_ws/install
+
+Name: rv4_urdf
+Description: Description of rv4_urdf
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

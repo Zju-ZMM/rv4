@@ -1,0 +1,2 @@
+rv4_urdf
+-DCATKIN_DEVEL_PREFIX=/home/nyubuntu/RV4_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nyubuntu/RV4_ws/install -G Unix Makefiles
